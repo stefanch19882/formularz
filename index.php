@@ -80,6 +80,12 @@
         <br><br>
         <label for="nazwisko">Nazwisko:</label>
         <input type="text" name="nazwisko" id="nazwisko" required>
+         <br><br>
+         <label for="telefon">Numer telefonu:</label>
+        <input type="text" name="telefon" id="telefon" required>
+        <br><br>
+        <label for="faktura">Numer dowodu zakupu:</label>
+        <input type="text" name="faktura" id="faktura" required>
         <br><br>
         <label for="email">Email:</label>
         <input type="email" name="email" id="email" required>
